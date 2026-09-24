@@ -18,7 +18,7 @@ Aplico meus conhecimentos técnicos e lógicos para criar fluxos de trabalhos ef
 Modelos práticos de gestão, fluxos de trabalho no Notion/Google Workspace e rotinas administrativas desenvolvidas em português e inglês.
 
 [![Acesse meu portfolio](https://img.shields.io/badge/Acesse_o_Portfólio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Assistente-Virtual-3d6bea01a3f5809abebad0223cb01cf0?source=copy_link)
-[![Visit my portfolio](https://img.shields.io/badge/Acesse_o_Portfólio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Virtual-Assistant-138bea01a3f5839e998d8112cb274285?source=copy_link)
+[![Visit my portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Virtual-Assistant-138bea01a3f5839e998d8112cb274285?source=copy_link)
 
 
 ### 📫 Como me encontrar:
@@ -47,7 +47,7 @@ I apply my technical and logical knowledge to create efficient workflows, organi
 Practical management models, workflows in Notion/Google Workspace and administrative routines developed in Portuguese and English.
 
 [![Acesse meu portfolio](https://img.shields.io/badge/Acesse_o_Portfólio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Assistente-Virtual-3d6bea01a3f5809abebad0223cb01cf0?source=copy_link)
-[![Visit my portfolio](https://img.shields.io/badge/Acesse_o_Portfólio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Virtual-Assistant-138bea01a3f5839e998d8112cb274285?source=copy_link)
+[![Visit my portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://foil-gambler-b6f.notion.site/Portfolio-Virtual-Assistant-138bea01a3f5839e998d8112cb274285?source=copy_link)
 
 ### 📫 How to find me:
 
